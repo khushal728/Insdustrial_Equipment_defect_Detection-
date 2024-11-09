@@ -1,0 +1,1 @@
+# Insdustrial_Equipment_defect_Detection-
